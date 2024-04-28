@@ -1,7 +1,7 @@
 |  | |
 | ----------- | ----------- |
-| <b> Nama     | Muhammad Din Al Ayubi       |
-| <b> NIM     | 312210293       |
+| <b> Nama     | Yudha Purnama Putra     |
+| <b> NIM     | 312210352       |
 | <b> Kelas   | TI.22.A.3        |
 | <b> Matakuliah   | Pemrograman Web 2       |
 
